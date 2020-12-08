@@ -4,8 +4,8 @@
     "static/js/0.454e5a78.chunk.js.map": "/overswap/static/js/0.454e5a78.chunk.js.map",
     "static/js/1.ab9e1769.chunk.js": "/overswap/static/js/1.ab9e1769.chunk.js",
     "static/js/1.ab9e1769.chunk.js.map": "/overswap/static/js/1.ab9e1769.chunk.js.map",
-    "main.js": "/overswap/static/js/main.2f18db64.chunk.js",
-    "main.js.map": "/overswap/static/js/main.2f18db64.chunk.js.map",
+    "main.js": "/overswap/static/js/main.f5978585.chunk.js",
+    "main.js.map": "/overswap/static/js/main.f5978585.chunk.js.map",
     "runtime-main.js": "/overswap/static/js/runtime-main.8e1b6df8.js",
     "runtime-main.js.map": "/overswap/static/js/runtime-main.8e1b6df8.js.map",
     "static/css/4.2aa8a0e5.chunk.css": "/overswap/static/css/4.2aa8a0e5.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.25eecf87.chunk.js": "/overswap/static/js/9.25eecf87.chunk.js",
     "static/js/9.25eecf87.chunk.js.map": "/overswap/static/js/9.25eecf87.chunk.js.map",
     "index.html": "/overswap/index.html",
-    "precache-manifest.9fb3e52ffb64c830b091a47acb89a0c3.js": "/overswap/precache-manifest.9fb3e52ffb64c830b091a47acb89a0c3.js",
+    "precache-manifest.456a4607a79755e23a25edd67ca72bb7.js": "/overswap/precache-manifest.456a4607a79755e23a25edd67ca72bb7.js",
     "service-worker.js": "/overswap/service-worker.js",
     "static/css/4.2aa8a0e5.chunk.css.map": "/overswap/static/css/4.2aa8a0e5.chunk.css.map",
     "static/js/4.d9290e4b.chunk.js.LICENSE.txt": "/overswap/static/js/4.d9290e4b.chunk.js.LICENSE.txt",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.8e1b6df8.js",
     "static/css/4.2aa8a0e5.chunk.css",
     "static/js/4.d9290e4b.chunk.js",
-    "static/js/main.2f18db64.chunk.js"
+    "static/js/main.f5978585.chunk.js"
   ]
 }
